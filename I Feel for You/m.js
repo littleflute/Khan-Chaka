@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 This Is My Night.mp3";		
+f[2]	= "02 Stronger Than Before.mp3";		
+f[3]	= "03 My Love Is Alive.mp3";		
+f[4]	= "04 Eye to Eye.mp3";		
+f[5]	= "05 La Flamme.mp3";		
+f[6]	= "06 I Feel for You.mp3";		
+f[7]	= "07 Hold Her.mp3";		
+f[8]	= "08 Through the Fire.mp3";		
+f[9]	= "09 Caught in the Act.mp3";		
+f[10]	= "10 Chinatown.mp3";		
